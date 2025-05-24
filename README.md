@@ -32,3 +32,14 @@ A simple in-memory Task Manager REST API built with Express.js. Supports creatin
 ```
 
 ![TodoMern](https://github.com/user-attachments/assets/ab7effcf-57d4-47e1-ac1f-7669172047af)
+
+## Folder Structure
+```folder
+  constroller
+     ├── task.controller.js
+  data
+     ├── tasks.json
+  routes
+     ├── task.route.js
+  index.js  // main server file                 
+```
